@@ -1,0 +1,14 @@
+# Ignore build files
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs
+
+# Ignore other common unnecessary files
+.DS_Store
